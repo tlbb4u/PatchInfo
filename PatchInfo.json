@@ -4,7 +4,7 @@
     "NewVersionUrl": "http://somewhere.com/Launch.zip"
   },
   "LoginServerUrl": "https://github.com/tlbb4u/PatchInfo/blob/main/LoginServer.txt",
-  "LatestVersion": "200",
+  "LatestVersion": "202",
   "Patches": [
     {
       "VersionFrom": "201",
