@@ -1,25 +1,20 @@
 {
   "Launch": {
-    "LatestVersion": 17,
+    "LatestVersion": 1,
     "NewVersionUrl": "http://somewhere.com/Launch.zip"
   },
-  "LoginServerUrl": "http://somewhere.com/LoginServer.txt",
-  "LatestVersion": "1.00.00",
+  "LoginServerUrl": "https://github.com/tlbb4u/PatchInfo/blob/main/LoginServer.txt",
+  "LatestVersion": "200",
   "Patches": [
     {
-      "VersionFrom": "1.00.02",
-      "VersionTo": "1.00.03",
-      "Url": ""
+      "VersionFrom": "201",
+      "VersionTo": "202",
+      "Url": "https://github.com/tlbb4u/PatchInfo/blob/main/202.zip"
     },
     {
-      "VersionFrom": "1.00.01",
-      "VersionTo": "1.00.02",
+      "VersionFrom": "200",
+      "VersionTo": "201",
       "Url": ""
-    },
-    {
-      "VersionFrom": "1.00.00",
-      "VersionTo": "1.00.01",
-      "Url": "http://somewhere.com/update-patch-1.00.00-1.00.01.zip"
     }
   ]
 }
