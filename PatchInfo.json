@@ -1,0 +1,25 @@
+{
+  "Launch": {
+    "LatestVersion": 17,
+    "NewVersionUrl": "http://somewhere.com/Launch.zip"
+  },
+  "LoginServerUrl": "http://somewhere.com/LoginServer.txt",
+  "LatestVersion": "1.00.00",
+  "Patches": [
+    {
+      "VersionFrom": "1.00.02",
+      "VersionTo": "1.00.03",
+      "Url": ""
+    },
+    {
+      "VersionFrom": "1.00.01",
+      "VersionTo": "1.00.02",
+      "Url": ""
+    },
+    {
+      "VersionFrom": "1.00.00",
+      "VersionTo": "1.00.01",
+      "Url": "http://somewhere.com/update-patch-1.00.00-1.00.01.zip"
+    }
+  ]
+}
