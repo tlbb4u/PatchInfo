@@ -1,8 +1,12 @@
 [Version]
-Latest=1.00.0000
+Latest=1.0.0.2
 NewLaunch=1.0.0
 
 [Patch_0]
-VersionFrom=1.00.0000
-VersionTo=1.00.0000
+VersionFrom=1.0.0.0
+VersionTo=1.0.0.1
+URL_1=https://github.com/tlbb4u/PatchInfo/blob/main/201.zip
+[Patch_1]
+VersionFrom=1.0.0.1
+VersionTo=1.0.0.2
 URL_1=https://github.com/tlbb4u/PatchInfo/blob/main/202.zip
